@@ -15,7 +15,7 @@
 
 📫 You can send me an email at araujomaluc@gmail.com and I'll answer as soon as can!
 
-❤️ Passionate about films, TV series, music, reading, travelling and embroidery. I also dream of publishing my own book someday!
+❤️ Passionate about movies, TV series, music, reading, travelling and embroidery. I also dream of publishing my own book someday!
 
 😉 Pronouns: She/Her
 
