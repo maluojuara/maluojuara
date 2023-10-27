@@ -9,7 +9,7 @@
 
 🌎 From Brasil based in Portugal.
 
-💻 Currently deep learning Python and C. Also a Data Science Student at [**UFMS**](https://www.ufms.br/).
+💻 Currently deep learning Python and C. Also a Data Science Student at [**UFMS**](https://www.ufms.br/) and ex-student from [**42 Lisboa**](https://www.42lisboa.com/en/)
 
 👀 I'm interested in Data Journalism and AI/Machine Learning (although I still haven't coded anything in that regard yet). 
 
@@ -27,7 +27,7 @@
 
 🌎 Brasileira morando em Portugal.
 
-💻 Atualmente, estou me dedicando mais a fundo a aprender Python e C. Também estudo Data Science na [**UFMS**](https://www.ufms.br/).
+💻 Atualmente, estou me dedicando mais a fundo a aprender Python e C. Também estudo Data Science na [**UFMS**](https://www.ufms.br/) e sou ex-estudante da [**42 Lisboa**](https://www.42lisboa.com/)
 
 👀 Tenho interesse em Jornalismo de Dados e AI/Machine Learning (mas ainda não fiz nenhum projeto nesse sentido).
 
