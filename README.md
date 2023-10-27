@@ -7,7 +7,7 @@
 	
 👋 Hi there! My name is Malu Araújo and I'm a 24 years old journalist trying to become a software engineer.
 
-🌎 From Brasil based in Portugal.
+🌎 From Brasil.
 
 💻 Currently deep learning Python and C. Also a Data Science Student at [**UFMS**](https://www.ufms.br/) and ex-student from [**42 Lisboa**](https://www.42lisboa.com/en/)
 
@@ -25,7 +25,7 @@
 	
 👋 Olá! Eu me chamo Malu Araújo e tenho 24 anos. Sou uma jornalista tentando me tornar também uma programadora.
 
-🌎 Brasileira morando em Portugal.
+🌎 Brasileira.
 
 💻 Atualmente, estou me dedicando mais a fundo a aprender Python e C. Também estudo Data Science na [**UFMS**](https://www.ufms.br/) e sou ex-estudante da [**42 Lisboa**](https://www.42lisboa.com/)
 
