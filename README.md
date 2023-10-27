@@ -27,7 +27,7 @@
 
 🌎 Brasileira.
 
-💻 Atualmente, estou me dedicando mais a fundo a aprender Python e C. Também estudo Data Science na [**UFMS**](https://www.ufms.br/) e sou ex-estudante da [**42 Lisboa**].(https://www.42lisboa.com/)
+💻 Atualmente, estou me dedicando mais a fundo a aprender Python e C. Também estudo Data Science na [**UFMS**](https://www.ufms.br/) e sou ex-estudante da [**42 Lisboa**](https://www.42lisboa.com/).
 
 👀 Tenho interesse em Jornalismo de Dados e AI/Machine Learning (mas ainda não fiz nenhum projeto nesse sentido).
 
