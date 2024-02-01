@@ -13,7 +13,7 @@
 
 👀 I'm interested in Data Journalism and AI/Machine Learning (although I still haven't coded anything in that regard yet). 
 
-📫 You can send me an email at araujomaluc@gmail.com and I'll answer as soon as can!
+📫 You can send me an email at araujomaluc@gmail.com and I'll answer as soon as I can!
 
 ❤️ Passionate about movies, TV series, music, reading, travelling and embroidery. I also dream of publishing my own book someday!
 
