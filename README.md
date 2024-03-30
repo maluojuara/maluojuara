@@ -5,7 +5,7 @@
 
 <h2> English </h2>
 	
-👋 Hi there! My name is Malu Araújo and I'm a 24 years old journalist trying to become a software engineer.
+👋 Hi there! My name is Malu Araújo and I'm a 25 years old journalist trying to become a software engineer.
 
 🌎 From Brasil.
 
@@ -23,7 +23,7 @@
 
 <h2> Português </h2>
 	
-👋 Olá! Eu me chamo Malu Araújo e tenho 24 anos. Sou uma jornalista tentando me tornar também uma programadora.
+👋 Olá! Eu me chamo Malu Araújo e tenho 25 anos. Sou uma jornalista tentando me tornar também uma programadora.
 
 🌎 Brasileira.
 
