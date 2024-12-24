@@ -29,13 +29,14 @@
 <br>
 
 <h2> 📊 GitHub Stats </h2>
-<div align="left">
+<div style="display: flex; gap: 20px;">
   <a href="https://github.com/maluojuara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maluojuara&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=eca7ba"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maluojuara&hide_title=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maluojuara&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=eca7ba"/>
+  </a>
+  <a href="https://github.com/maluojuara">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maluojuara&hide_title=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
-
-##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
