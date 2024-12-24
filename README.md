@@ -8,8 +8,8 @@
 
 📚 **Education:**
 
-- Student at [**Senac SP**](https://www.sp.senac.br/graduacao/tecnologia-em-sistemas-para-internet)
-- Former student at [**42 School**](https://www.42lisboa.com/en/) in Lisbon
+- Student at <a href="https://www.sp.senac.br/graduacao/tecnologia-em-sistemas-para-internet" target="_blank"><strong>Senac SP</strong></a>
+- Former student at <a href="https://www.42lisboa.com/en/" target="_blank"><strong>42 School</strong></a> in Lisbon
 
 😉 Pronouns: She/Her
 
@@ -24,19 +24,17 @@
 <br>
 
 📫 **Contact me:**  
-[araujomaluc@gmail.com](mailto:araujomaluc@gmail.com)
+<a href="mailto:araujomaluc@gmail.com" target="_blank">araujomaluc@gmail.com</a>
 
 <br>
 
 <h2> 📊 GitHub Stats </h2>
-<div style="display: flex; gap: 20px;">
-  <a href="https://github.com/maluojuara">
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=maluojuara&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=eca7ba"/>
-  </a>
-  <a href="https://github.com/maluojuara">
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maluojuara&hide_title=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=maluojuara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maluojuara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -61,7 +59,6 @@
 </div>
 
 ###
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/maluojuara/" target="_blank">
