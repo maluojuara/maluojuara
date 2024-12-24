@@ -4,7 +4,7 @@
 
 ✨ **Journalist** transitioning into **software development**
 
-💻 Currently focusing on **Front-end Development**
+💻 Currently focusing on learn **Front-end Development**
 
 📚 **Education:**
 
@@ -19,7 +19,7 @@
 
 ❤️ Passionate about technology
 
-🌟 Always eager to learn, build, and collaborate!
+🌟 Always eager to learn, build and collaborate!
 
 <br>
 
