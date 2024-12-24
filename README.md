@@ -1,44 +1,34 @@
+### Hello world, I am Malu Araújo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-[![LinkedIn](https://shields.io/badge/LinkedIn-eca7ba?logo=LinkedIn&logoColor=0d1117&style=for-the-badge)](https://www.linkedin.com/in/maluojuara/)
-[![Medium](https://shields.io/badge/Medium-eca7ba?logo=Medium&logoColor=0d1117&style=for-the-badge)](https://medium.com/maluojuara)
-[![Behance](https://shields.io/badge/Behance-eca7ba?logo=Behance&logoColor=0d1117&style=for-the-badge)](https://www.behance.net/maluojuara)
+<br>
 
-<h2> English </h2>
-	
-👋 Hi there! My name is Malu Araújo and I'm a 25 years old journalist trying to become a software engineer.
+✨ **Journalist** transitioning into **software development**
 
-🌎 From Brasil.
+💻 Currently focusing on **Front-end Development**
 
-💻 Currently deep learning Python, HTML/CSS and C. Also a Data Science Student at [**UFMS**](https://www.ufms.br/) and ex-student from [**42 Lisboa**](https://www.42lisboa.com/en/).
+📚 **Education:**
 
-👀 I'm interested in Data Journalism and AI/Machine Learning (although I still haven't coded anything in that regard yet). 
-
-📫 You can send me an email at araujomaluc@gmail.com and I'll answer as soon as I can!
-
-❤️ Passionate about movies, TV series, music, reading, travelling and embroidery. I also dream of publishing my own book someday!
+- Student at [**Senac SP**](https://www.sp.senac.br/graduacao/tecnologia-em-sistemas-para-internet)
+- Former student at [**42 School**](https://www.42lisboa.com/en/) in Lisbon
 
 😉 Pronouns: She/Her
 
+📍 Based in: São Paulo, Brasil
 
+💡 Love a good challenge and problem-solving
 
-<h2> Português </h2>
-	
-👋 Olá! Eu me chamo Malu Araújo e tenho 25 anos. Sou uma jornalista tentando me tornar também uma programadora.
+❤️ Passionate about technology
 
-🌎 Brasileira.
+🌟 Always eager to learn, build, and collaborate!
 
-💻 Atualmente, estou me dedicando mais a fundo a aprender Python, HTML/CSS e C. Também estudo Data Science na [**UFMS**](https://www.ufms.br/) e sou ex-estudante da [**42 Lisboa**](https://www.42lisboa.com/).
+<br>
 
-👀 Tenho interesse em Jornalismo de Dados e AI/Machine Learning (mas ainda não fiz nenhum projeto nesse sentido).
+📫 **Contact me:**  
+[araujomaluc@gmail.com](mailto:araujomaluc@gmail.com)
 
-📫 Você pode falar comigo em araujomaluc@gmail.com e eu responderei assim que possível!
+<br>
 
-
-❤️ Apaixonada por filmes, séries de TV, música, leitura, viagens e bordados. Também sonho um dia publicar um livro!
-
-😉 Pronomes: ela/dela
-
-<h2> GitHub Stats </h2>
+<h2> 📊 GitHub Stats </h2>
 <div align="left">
   <a href="https://github.com/maluojuara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maluojuara&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=eca7ba"/>
@@ -46,12 +36,40 @@
 </div>
 
 ##
-<div align="center"> 
-  <img align="center" alt="PJV-PY" height="40" width="40" src="https://img.icons8.com/fluency/344/python.png">
-  <img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="PJV-Bash" height="55" width="55" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
-  <img align="center" alt="PJV-Vim" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
-  <img align="center" alt="PJV-VS " height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-   <img align="center" alt="PJV-VS " height="48" width="48" src="https://img.icons8.com/?size=64&id=20906&format=png">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+###
+
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/maluojuara/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=pink&logoColor=black&labelColor=pink&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:araujomaluc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=pink&logoColor=black&labelColor=pink&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/malu.codes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=pink&logoColor=black&labelColor=pink&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
