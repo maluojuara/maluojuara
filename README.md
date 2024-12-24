@@ -11,8 +11,6 @@
 - Student at <a href="https://www.sp.senac.br/graduacao/tecnologia-em-sistemas-para-internet" target="_blank"><strong>Senac SP</strong></a>
 - Former student at <a href="https://www.42lisboa.com/en/" target="_blank"><strong>42 School</strong></a> in Lisbon
 
-😉 Pronouns: She/Her
-
 📍 Based in: São Paulo, Brasil
 
 💡 Love a good challenge and problem-solving
