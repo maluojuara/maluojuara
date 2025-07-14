@@ -2,14 +2,14 @@
 
 <br>
 
-✨ **Journalist** transitioning into **software development**
+✨  **Software developer** and **Journalist**
 
-💻 Currently focusing on learn **Front-end Development**
+💻 Currently focusing mainly on learning **C programming** and **Front-end Development**
 
 📚 **Education:**
 
 - Student at <a href="https://www.sp.senac.br/graduacao/tecnologia-em-sistemas-para-internet" target="_blank"><strong>Senac SP</strong></a>
-- Former student at <a href="https://www.42lisboa.com/en/" target="_blank"><strong>42 School</strong></a> in Lisbon
+- Student at <a href="https://www.42sp.org.br/" target="_blank"><strong>42 School in São Paulo</strong></a> 
 
 📍 Based in: São Paulo, Brasil
 
