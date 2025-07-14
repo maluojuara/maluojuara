@@ -9,7 +9,9 @@
 📚 **Education:**
 
 - Student at <a href="https://www.sp.senac.br/graduacao/tecnologia-em-sistemas-para-internet" target="_blank"><strong>Senac SP</strong></a>
-- Student at <a href="https://www.42sp.org.br/" target="_blank"><strong>42 School in São Paulo</strong></a> 
+- Student at <a href="https://www.42sp.org.br/" target="_blank"><strong>42 School in São Paulo</strong></a>
+- Bachelor's degree in Journalism from <a href="https://www.ufs.br/" target="_blank"><strong>Universidade Federal de Sergipe</strong></a>
+- Master's degree in Journalism from <a href="https://www.ubi.pt/" target="_blank"><strong>Universidade da Beira Interior</strong></a>
 
 📍 Based in: São Paulo, Brasil
 
